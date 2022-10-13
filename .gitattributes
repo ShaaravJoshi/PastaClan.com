@@ -1,2 +1,46 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Pasta Clan Homepage</title></head>
+<body>
+<section>
+<body style=background:lightgreen
+  <p> </p>
+  <h1>Welcome to the Pasta Clan website!</h1>
+  <h1>Meet The Members!</h1>
+    <ul>
+      <li>Noodle Neil</li>
+      <li>Slippery Shamita</li>
+      <li>Saucey Shaarav</li>
+      <li>Powerful Priansh</li>
+    </ul>
+    <p>Together, we are the legendary P.A.S.T.A.S.: POWERFUL, ATOMIC, SLIPPERY, TACO-FRIENDLY, AND SAUCEY.</P>
+    <h1>About the Members!</h1>
+    <p>Noodle Neil is 9 years old and is in 4th grade. He has one sibling who is Slippery Shamita. Noodle Neil is also
+      probabaly our main enthusiast and supporter, even though he is already in the clan. He is also very loud, so his
+      nickname is Noodle "scream" Neil.</p>
+    <p>Slippery Shamita is 12 years old and is in 7th grade. She is Noodle Neil's sister. She is our war approval
+      person, and she likes math. She is also a distracter and helps in spying. She helped make this website.</p>
+    <p>Saucey Shaarav is 11 years old and is in 6th grade. He is Powerful Priansh's twin brother, and is our private spy.     He also created this website, and, like Shamita, he likes math.</p>
+    <p>Powerful Priansh is 11 years old and is in 6th grade. He is Saucey Shaarav's twin brother and is our watchman.
+    </p>
+    <p>We are working on business calls every other day. We also meet yearly in person or possibly twice a year.</p>
+    <p>Call us at +1(919)-PASTAS</p>
+   <h1>Our Sponsor</h1>
+    <ul>
+      <li><a href=https://www.indovance.com>Indovance Inc</a></li>
+    </ul>
+  <h1>If you have any questions or concerns, please email us at:</h1>
+  <ul>
+  <li>shaaravjoshi1@gmail.com</li>
+  <li>shamitapanat@gmail.com</li>
+  <li>prianshjoshi@gmail.com</li>
+  </ul>
+</section>
+<footer>Made by Shaarav Joshi and Shamita Panat</footer>
+  </body>
+</html>
