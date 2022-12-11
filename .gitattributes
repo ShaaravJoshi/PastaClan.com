@@ -5,7 +5,25 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Pasta Clan Homepage</title></head>
+  <title>Pasta Clan Homepage</title>
+  <style>
+  h1 {
+    color: rgb(0, 0, 100);
+  }
+
+  body {
+    background-color: rgb(173, 59, 63);
+  }
+
+  p {
+    color: rgb(30, 200, 40);
+  }
+
+  li {
+    color: rgb(20, 200, 200);
+  }
+</style>
+  </head>
 <body>
 <section>
 <body style=background:lightgreen
